@@ -1,4 +1,4 @@
-package com.tnsif.dayfive;
+package com.tnsif.dayfour;
 
 public class EncapsulationDemo {
 

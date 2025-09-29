@@ -1,4 +1,5 @@
-package com.tnsif.dayfive;
+package com.tnsif.dayfour;
+
 public class Rectangle extends Shape{
 	private float width, height;
 
