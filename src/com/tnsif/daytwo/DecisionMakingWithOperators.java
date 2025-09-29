@@ -22,7 +22,6 @@ public class DecisionMakingWithOperators {
 			System.out.println("Condition is FALSE");
 		}
 
-
 	}
 
 }

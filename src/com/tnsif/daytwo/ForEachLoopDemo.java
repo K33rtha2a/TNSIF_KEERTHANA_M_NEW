@@ -24,7 +24,6 @@ public class ForEachLoopDemo {
 					System.out.print(s+" ");		
 				}
 
-
 	}
 
 }

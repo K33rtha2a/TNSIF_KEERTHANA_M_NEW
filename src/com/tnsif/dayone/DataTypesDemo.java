@@ -13,7 +13,7 @@ public class DataTypesDemo {
 		System.out.println("value 3=" + value3);
 		System.out.println("value 4=" + value4);
 		
-		
+	
 		int marker = 512;
 		//assigning expression to variable 
 		double percentage = marker * 0.46f;

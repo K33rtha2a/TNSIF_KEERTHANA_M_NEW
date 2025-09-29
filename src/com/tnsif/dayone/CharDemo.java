@@ -24,7 +24,6 @@ public class CharDemo {
 				int a = 'A';
 				System.out.println(a);
 
-
 	}
 
 }

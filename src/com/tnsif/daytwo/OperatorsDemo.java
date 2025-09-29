@@ -22,7 +22,6 @@ System.out.println("d value after the operations: " + d);
 		  x = (10 == x) ? 1 : 0;	
 		  System.out.println(x);
 
-
 	}
 
 }

@@ -13,7 +13,6 @@ public class ContinueDemo {
 		System.out.print(k + " ");
 		}
 
-
 	}
 
 }

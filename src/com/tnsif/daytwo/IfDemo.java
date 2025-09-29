@@ -13,7 +13,6 @@ public class IfDemo {
 		System.out.println("Value of x is 5");
 	}
 
-
 	}
 
 }

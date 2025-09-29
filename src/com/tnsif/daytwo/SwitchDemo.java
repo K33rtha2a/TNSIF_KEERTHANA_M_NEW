@@ -27,7 +27,6 @@ public class SwitchDemo {
 			break;
 		}
 
-
 	}
 
 }

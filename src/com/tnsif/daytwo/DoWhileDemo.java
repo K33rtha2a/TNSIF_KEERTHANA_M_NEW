@@ -10,7 +10,6 @@ public class DoWhileDemo {
 			i++;
 		} while (i <= 1);
 
-
 	}
 
 }
