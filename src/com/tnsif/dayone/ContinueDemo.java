@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class ContinueDemo {
 
@@ -12,6 +12,7 @@ public class ContinueDemo {
 		// Even numbers are printed
 		System.out.print(k + " ");
 		}
+
 
 	}
 

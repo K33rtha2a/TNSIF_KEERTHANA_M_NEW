@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class BreakDemo {
 
@@ -10,7 +10,6 @@ public class BreakDemo {
 				break;
 			System.out.println(i);
 		}
-
 
 
 	}
