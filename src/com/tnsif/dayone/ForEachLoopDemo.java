@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class ForEachLoopDemo {
 
@@ -23,6 +23,7 @@ public class ForEachLoopDemo {
 				{
 					System.out.print(s+" ");		
 				}
+
 
 	}
 

@@ -1,10 +1,11 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class IfElseDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-int age=11;
+		// TODO Auto-generated method stub
+        int age=11;
 		
 		if(age>=18)
 			System.out.println(" You are eligible for Voting");	
@@ -12,6 +13,7 @@ int age=11;
 			System.out.println("Sorry! You need to wait more");
 
 		System.out.println("if else demonstration");
+
 
 	}
 

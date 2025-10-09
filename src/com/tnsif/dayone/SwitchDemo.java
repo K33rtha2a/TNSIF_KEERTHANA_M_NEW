@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class SwitchDemo {
 
@@ -26,6 +26,7 @@ public class SwitchDemo {
 			System.out.println(x+" is other than letter, digit, space or special symbol ");
 			break;
 		}
+
 
 	}
 

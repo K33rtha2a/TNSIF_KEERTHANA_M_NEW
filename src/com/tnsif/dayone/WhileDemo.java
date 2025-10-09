@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class WhileDemo {
 
@@ -10,6 +10,7 @@ public class WhileDemo {
 			System.out.println(i);
 			i++;
 		}
+
 
 
 	}

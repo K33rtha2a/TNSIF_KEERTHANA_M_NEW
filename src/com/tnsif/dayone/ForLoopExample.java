@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class ForLoopExample {
 
@@ -11,5 +11,7 @@ public class ForLoopExample {
 		}
 
 
+
 	}
+
 }

@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class DecisionMakingWithOperators {
 
@@ -21,6 +21,7 @@ public class DecisionMakingWithOperators {
 		{
 			System.out.println("Condition is FALSE");
 		}
+
 
 	}
 

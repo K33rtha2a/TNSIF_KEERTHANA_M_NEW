@@ -1,6 +1,6 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
-public class OperatorsDemo {
+public class OperatorDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -21,6 +21,7 @@ System.out.println("d value after the operations: " + d);
 		//Ternary operator demonstration
 		  x = (10 == x) ? 1 : 0;	
 		  System.out.println(x);
+
 
 	}
 

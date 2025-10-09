@@ -1,4 +1,4 @@
-package com.tnsif.daytwo;
+package com.tnsif.dayone;
 
 public class NestedIfElseDemo {
 
@@ -18,8 +18,6 @@ public class NestedIfElseDemo {
 			else
 				System.out.println(b);
 		}
-
-	
 
 	}
 
